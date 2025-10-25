@@ -80,3 +80,4 @@ npm run dev
 🙏 Acknowledgements
 
 A big thanks to the Jikan API for providing the free manga data.
+
